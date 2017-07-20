@@ -19,6 +19,15 @@ nav#navvy.navbar.navbar-static-top {
     background-color: #6A1525;
 }
 
+/*BUTTON*/
+button.navbar-toggle {
+    border: 1px solid #FFF6F0;
+
+}
+span.icon-bar {
+    border: 1px solid #FFF6F0;
+}
+
 #navvy a {
     color: #FFF6F0;
 }
